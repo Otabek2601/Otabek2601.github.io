@@ -1,1 +1,4 @@
-# Otabek2601.github.io
+# Homework2: Introduction to IT. 
+Student name: Otabek Karimov (u1810062)
+
+Creating a web page using basic HTML and CSS
